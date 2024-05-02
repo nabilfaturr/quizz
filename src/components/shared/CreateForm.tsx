@@ -74,6 +74,7 @@ const CreateForm = () => {
 
       const result: any = JSON.parse(data);
 
+      toast.success("Quiz created successfully");
       setResult(result);
       setLoading(false);
     } catch (error) {
