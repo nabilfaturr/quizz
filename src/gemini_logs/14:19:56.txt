@@ -1,0 +1,1 @@
+[{"question":"Manakah dari proses berikut yang termasuk reaksi eksotermik?","options":["Pembakaran gas alam","Fotosintesis","Pendinginan air","Pelelehan es"],"correctAnswer":{"index":0,"value":"Pembakaran gas alam"}}]

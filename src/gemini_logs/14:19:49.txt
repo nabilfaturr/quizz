@@ -1,0 +1,1 @@
+[{"question":"Bagian sistem peredaran darah yang bertugas memompa dan mengalirkan darah ke seluruh tubuh adalah","options":["Jantung","Pembuluh darah","Sel darah merah","Plasma darah"],"correctAnswer":{"index":0,"value":"Jantung"}}]

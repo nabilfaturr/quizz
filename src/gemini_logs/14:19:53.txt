@@ -1,0 +1,1 @@
+[{"question":"Manakah dari peristiwa berikut yang merupakan reaksi eksotermik?","options":["Penguapan air","Pembakaran kayu","Larutnya gula dalam air","Kondensasi gas menjadi cair"],"correctAnswer":{"index":1,"value":"Pembakaran kayu"}}]

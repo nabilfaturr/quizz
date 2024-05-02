@@ -1,0 +1,1 @@
+[{"question":"Proses pembuatan baja dari besi kasar disebut?","options":["Dekarbonisasi","Karbonisasi","Oksidasi","Reduksi"],"correctAnswer":{"index":0,"value":"Dekarbonisasi"}}]

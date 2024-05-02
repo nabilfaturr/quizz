@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Bagian tumbuhan yang berperan dalam proses fotosintesis adalah...",
+    "options": [
+      "Akar",
+      "Bunga",
+      "Daun",
+      "Batang"
+    ],
+    "correctAnswer": {
+      "index": 2,
+      "value": "Daun"
+    }
+  },
+  {
+    "question": "Proses pertukaran gas pada manusia terjadi di...",
+    "options": [
+      "paru-paru",
+      "lambung",
+      "usus",
+      "jantung"
+    ],
+    "correctAnswer": {
+      "index": 0,
+      "value": "paru-paru"
+    }
+  },
+  {
+    "question": "Hukum yang menyatakan bahwa gaya yang bekerja pada benda berbanding lurus dengan percepatan yang dihasilkan disebut...",
+    "options": [
+      "Hukum Newton I",
+      "Hukum Newton II",
+      "Hukum Newton III",
+      "Hukum Gravitasi"
+    ],
+    "correctAnswer": {
+      "index": 1,
+      "value": "Hukum Newton II"
+    }
+  },
+  {
+    "question": "Satuan besaran fisika untuk waktu adalah...",
+    "options": [
+      "Meter",
+      "Kilogram",
+      "Detik",
+      "Ampere"
+    ],
+    "correctAnswer": {
+      "index": 2,
+      "value": "Detik"
+    }
+  },
+  {
+    "question": "Larutan yang bersifat asam memiliki pH...",
+    "options": [
+      "Lebih besar dari 7",
+      "Sama dengan 7",
+      "Kurang dari 7",
+      "Tidak dapat ditentukan"
+    ],
+    "correctAnswer": {
+      "index": 2,
+      "value": "Kurang dari 7"
+    }
+  }
+]

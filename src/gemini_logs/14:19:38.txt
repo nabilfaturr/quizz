@@ -1,0 +1,1 @@
+[{"question":"Proses perubahan wujud zat dari cair menjadi gas disebut dengan?","options":["Mengembun","Menguap","Mencair","Membeku"],"correctAnswer":{"index":1,"value":"Menguap"}}]

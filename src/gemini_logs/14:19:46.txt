@@ -1,0 +1,1 @@
+"\n[\n  {\n    \"question\": \"Bagian tumbuhan yang berfungsi sebagai tempat terjadinya fotosintesis adalah?\",\n    \"options\": [\n      \"Akar\",\n      \"Bunga\",\n      \"Daun\",\n      \"Batang\"\n    ],\n    \"correctAnswer\": {\n      \"index\": 2,\n      \"value\": \"Daun\"\n    }\n  }\n]\n"

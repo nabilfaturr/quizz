@@ -1,0 +1,1 @@
+[{"question":"Sebuah benda bermassa 2 kg bergerak dengan kecepatan 10 m/s. Berapa momentum benda tersebut?","options":["5 kg m/s","10 kg m/s","20 kg m/s","50 kg m/s"],"correctAnswer":{"index":2,"value":"20 kg m/s"}}]
