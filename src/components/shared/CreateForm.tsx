@@ -31,7 +31,7 @@ const HARD_LEVEL = ["Mudah", "Menengah", "Susah"];
 
 const CreateForm = () => {
   const [loading, setLoading] = React.useState(false);
-  const [result, setResult] = React.useState<QuizData>([]);
+  const [result, setResult] = React.useState<any>("");
 
   const form = useForm<TCreateFormSchema>({
     resolver: zodResolver(createFormSchema),
